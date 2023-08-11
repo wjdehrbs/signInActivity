@@ -1,2 +1,7 @@
 
-![Uploading device-2023-08-11-101001 (3).gif…]()
+
+https://github.com/wjdehrbs/signInActivity/assets/139088122/2f0033d1-162d-4a3c-971a-6d3afdcf1e24
+
+<p align="center">
+  <img src="https://github.com/wjdehrbs/signInActivity/assets/139088122/2f0033d1-162d-4a3c-971a-6d3afdcf1e24">
+</p>
